@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RaxxyJ
-- 👀 I’m interested in energy and climate modelling.
+- 👀 I’m interested in motor proteins.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on climate change AI.
+- 💞️ I’m looking to collaborate on ciliary beating of a clamped mocrotubule filament.
 - 📫 How to reach me jannyrax@gmail.com.
 
 <!---
